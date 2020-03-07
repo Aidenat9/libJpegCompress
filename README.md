@@ -1,6 +1,6 @@
 # libJpegCompress
 
-###简介说明
+### 简介
 
 Android系统中的skia引擎是阉割的skia版本，对jpeg的处理基于libjpeg开源库，对png的处理则是基于libpng。 早期的Android系统由于cpu吃紧。将libjpeg中的最优哈夫曼编码关闭了。直到7.0才打开。
 
